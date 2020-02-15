@@ -1,0 +1,73 @@
+[
+  {
+    "type": "normal",
+    "bpm": 100.00,
+    "beats": [
+      {
+        "type": "curved",
+        "direction": "left",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "right",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "left",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "right",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "left",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "right",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "up",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "up",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "up",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "up",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "down",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "down",
+        "burst": false
+      },
+      {
+        "type": "straight",
+        "direction": "down",
+        "burst": false
+      }
+    ]
+  }
+]
